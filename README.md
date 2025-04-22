@@ -26,6 +26,7 @@
 - ✨ My dream is to work full-time with open-source
 
 ---
-
-<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight"/>
-<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact"/>
+ <div style="display: flex; flex-direction: column; align-items: center;">
+   <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight"/>
+   <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact"/>
+ </div>

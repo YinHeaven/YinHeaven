@@ -21,7 +21,7 @@
 
 - 🏹 2023 Goals: Contribute to more open-source
 
-- 📫 Let's get social on [Discord](https://discordapp.com/users/345609067181375490/)
+- 📫 Let's get social on [Discord](https://discordapp.com//)
 
 - ✨ My dream is to work full-time with open-source
 

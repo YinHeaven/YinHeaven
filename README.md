@@ -29,8 +29,4 @@
 
 <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight" />
 <br/>
-<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabb-c&theme=tokyonight&layout=compact" />
-
-<!-- If you're using "main" as default branch
-![Metrics](https://github.com/Gabb-c/Gabb-c/blob/main/github-metrics.svg)
--->
+<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact" />

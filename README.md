@@ -9,7 +9,7 @@
 <img align="left" alt="Stats" src="https://github.com/YinHeaven/YinHeaven/blob/main/Stats.js" />
 
 <p align="left" >
-  Yo! My name is Yeltsin, but here you can call me Yin. I'm a Full-Stack programmer in python with a passion to develop highly scalable projects with quality and innovation. Thank you for visiting my profile ツ. Please consider donating if you think my work is valuable. I am happy if you can buy 
+  Hi! My name is Yeltsin, but here you can call me Yin. I'm a Full-Stack programmer in python with a passion to develop highly scalable projects with quality and innovation. Thank you for visiting my profile ツ. Please consider donating if you think my work is valuable. I am happy if you can buy 
   me a coffee :heart:
 </p>
 

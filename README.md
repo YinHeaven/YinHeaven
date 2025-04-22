@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="left" alt="Metrics" src="https://github.com/YinHeaven/YinHeaven/blob/main/Stats.js" />
+<img align="left" alt="Stats" src="https://github.com/YinHeaven/YinHeaven/blob/main/Stats.js" />
 
 <p align="left" >
   Yo! My name is Gabriel, but here you can call me Gabb-c. I'm a Full-Stack Engineer in Brazil with a passion to develop highly scalable projects with quality and innovation. Thank you for visiting my profile ツ. Please consider donating if you think my work is valuable. I am happy if you can buy 

@@ -27,7 +27,7 @@
      <li>📫 Let's get social on <a href="https://discordapp.com/" target="_blank">Discord</a></li>
      <li>✨ My dream is to work full-time with open-source</li>
    </ul>
-  |<img alt="Divertido GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4h3IwamhuZ1lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" width="500" height="200" align-items: left; />|
+  |<img alt="Divertido GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4h3IwamhuZ1lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" width="400" height="200" align-items: left; />|
   </div>
 
 

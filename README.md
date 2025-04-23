@@ -5,7 +5,9 @@
 </head>
 <body>
  <div align="center" justify="center">
-  > [!Perfil en progreso]
+  > [!Note]
+  > Profile in progress
+  
  <h1>Yin Heaven :flower_playing_cards: </h1>
  <h3> 「  <em>Software Engineer</em>  」 </h3>
 

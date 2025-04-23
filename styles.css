@@ -8,25 +8,25 @@ body {
 
 /* Flex container for the columns */
 .container {
-  display: flex; /* Para colocar los elementos en línea horizontal */
-  align-items: center; /* Alinea verticalmente los elementos */
-  gap: 10px; /* Espacio entre el <ul> y el GIF */
+  display: flex; 
+  align-items: center; 
+  gap: 10px; 
 }
 
 ul {
-  border: 2px solid #000; /* Borde del cuadro */
-  padding: 15px; /* Espaciado interno dentro del cuadro */
-  border-radius: 8px; /* Esquinas redondeadas (opcional) */
-  background-color: #f9f9f9; /* Fondo del cuadro (opcional) */
-  list-style-type: disc; /* Tipo de viñeta */
+  border: 2px solid #000; 
+  padding: 15px;
+  border-radius: 8px; 
+  background-color: #f9f9f9; 
+  list-style-type: disc; 
 }
 
 li {
-  margin-bottom: 10px; /* Espaciado entre los elementos de la lista */
+  margin-bottom: 10px; 
 }
 
 img {
-  max-width: 100px; /* Ajusta el tamaño del GIF según sea necesario */
+  max-width: 100px; 
   height: auto;
 }
 }
@@ -45,7 +45,7 @@ img {
         width: 100%;
     }
     div {
-        width: 200px; /* Ancho personalizado */
-        height: 150px; /* Alto personalizado */
+        width: 200px; 
+        height: 150px; 
     }
 }

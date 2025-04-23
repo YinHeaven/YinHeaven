@@ -15,20 +15,19 @@
 
 ---
 
- <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-        <ul style="flex: 1; list-style: none; padding: 0;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+        <ul style="flex: 1; list-style: none; padding: 0; margin: 0;">
           <li>🔭 Currently Working on <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">a secret project</a></li>
           <li>📚 Studying software architecture</li>
           <li>🏹 My goal is to become a robust code programmer and transmit knowledge</li>
           <li>📫 Let's get social on <a href="https://discordapp.com/" target="_blank">Discord</a></li>
           <li>✨ My dream is to work full-time with open-source</li>
         </ul>
-  <ul>
-        <div style="flex: 1; align: right;">
-          <img width="50%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4c28yZ3ZlOWpyOXYxaWh3MTIwamhuZ21lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" />
+        <div style="flex: 1; text-align: center;">
+          <img alt="Divertido GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4h3IwamhuZ1lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" style="max-width: 100%; height: auto;" />
         </div>
       </div>
-  </ul> 
+      
 
 ---
  <div style="display: flex; flex-direction: column; align-items: center;">

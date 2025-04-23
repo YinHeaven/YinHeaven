@@ -1,4 +1,7 @@
 
+<head>
+ <link rel="nesheet" href="styles.css">
+</head>
 <div align="center" justify="center">
  
 <h1>Yin Heaven :flower_playing_cards: </h1>

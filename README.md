@@ -24,7 +24,7 @@
           <li>✨ My dream is to work full-time with open-source</li>
         </ul>
         <div style="flex: 1; align: right;">
-          <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4c28yZ3ZlOWpyOXYxaWh3MTIwamhuZ21lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" />
+          <img width="50%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4c28yZ3ZlOWpyOXYxaWh3MTIwamhuZ21lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" />
         </div>
       </div>
       

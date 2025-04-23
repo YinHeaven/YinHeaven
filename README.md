@@ -1,12 +1,11 @@
-
+>> [!Note]
+>> Profile in progress
 <head>
  <link rel="nesheet" href="styles.css">
  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
 </head>
 <body>
  <div align="center" justify="center">
-  > [!Note]
-  > Profile in progress
   
  <h1>Yin Heaven :flower_playing_cards: </h1>
  <h3> 「  <em>Software Engineer</em>  」 </h3>

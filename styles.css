@@ -14,9 +14,15 @@ body {
 }
 
 ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  border: 2px solid #000; /* Borde del cuadro */
+  padding: 15px; /* Espaciado interno dentro del cuadro */
+  border-radius: 8px; /* Esquinas redondeadas (opcional) */
+  background-color: #f9f9f9; /* Fondo del cuadro (opcional) */
+  list-style-type: disc; /* Tipo de viñeta */
+}
+
+li {
+  margin-bottom: 10px; /* Espaciado entre los elementos de la lista */
 }
 
 img {

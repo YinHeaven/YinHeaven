@@ -5,6 +5,9 @@ body {
     padding: 0;
     line-height: 1.6;
 }
+h1 {
+    font-family: 'Georgia', sans-serif;
+}
 
 /* Flex container for the columns */
 .container {

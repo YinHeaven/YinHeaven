@@ -35,10 +35,15 @@ body {
         flex-direction: column;
         align-items: center;
     }
+    
 
     .columns-container ul,
     .columns-container .gif-container {
         flex: unset;
         width: 100%;
+    }
+    div {
+        width: 200px; /* Ancho personalizado */
+        height: 150px; /* Alto personalizado */
     }
 }

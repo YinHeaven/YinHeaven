@@ -15,8 +15,10 @@
 
 ---
 
-![Divertido GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlxdGc2cGM5cmIwN2RleWpkYW8zNXQzeHltaGZncWNmZ3lhdmxvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IzR9o1CxrNYTU1g71p/giphy.gif)
 
+<div align="right">
+  <img alt="Divertido GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlxdGc2cGM5cmIwN2RleWpkYW8zNXQzeHltaGZncWNmZ3lhdmxvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IzR9o1CxrNYTU1g71p/giphy.gif" />
+</div>
 - 🔭 Currently Working on [a secret project](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 📚 Studying software architecture

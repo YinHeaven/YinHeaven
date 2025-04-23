@@ -34,7 +34,7 @@
  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; ">
    <img align="center" width="36%" src="https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight" height="180"/>
    <img align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact"  height="160"/>
-   <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4h3IwamhuZ1lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" width="180" height="160" align: center; />
+   <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4h3IwamhuZ1lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" width="180" height="160" align: right; />
 
 
 

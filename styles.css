@@ -7,26 +7,22 @@ body {
 }
 
 /* Flex container for the columns */
-.columns-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px;
-    padding: 20px;
+.container {
+  display: flex; /* Para colocar los elementos en línea horizontal */
+  align-items: center; /* Alinea verticalmente los elementos */
+  gap: 10px; /* Espacio entre el <ul> y el GIF */
 }
 
-/* Style for the unordered list */
-.columns-container ul {
-    flex: 1;
-    list-style: none;
-    padding: 0;
-    margin: 0;
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-/* Style for the GIF container */
-.columns-container .gif-container {
-    flex: 1;
-    text-align: center;
+img {
+  max-width: 100px; /* Ajusta el tamaño del GIF según sea necesario */
+  height: auto;
+}
 }
 
 /* Responsive design for smaller screens */

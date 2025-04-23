@@ -14,7 +14,7 @@
 </p>
 
 ---
-<div style="display: flex; justify-content: column; align-items: flex-start; gap: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center;">
  <ul style="flex: 1; list-style: none; padding: 0; margin: 0;">
   <li>🔭 Currently Working on <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">a secret project</a></li>
   <li>📚 Studying software architecture</li>

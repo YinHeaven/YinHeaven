@@ -1,12 +1,9 @@
 /* General styles for the body */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Poiret One, sans-serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-}
-h1 {
-    font-family: 'Georgia', sans-serif;
 }
 
 /* Flex container for the columns */
@@ -17,10 +14,10 @@ h1 {
 }
 
 ul {
-  border: 2px solid #000; 
+  border: 2px solid #b700ff; 
   padding: 15px;
   border-radius: 8px; 
-  background-color: #f9f9f9; 
+  background-color: #0a0a0a; 
   list-style-type: disc; 
 }
 
@@ -32,23 +29,55 @@ img {
   max-width: 100px; 
   height: auto;
 }
+/* Estilo para las imágenes en PC */
+.responsive-images {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
 }
 
-/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .responsive-images {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .responsive-images img {
+      width: 80%; 
+      height: auto;
+  }
+} 
+
+
 @media (max-width: 768px) {
     .columns-container {
         flex-direction: column;
         align-items: center;
     }
-    
 
     .columns-container ul,
     .columns-container .gif-container {
         flex: unset;
         width: 100%;
     }
+
+    .container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    ul {
+        width: 100%;
+        padding: 10px;
+    }
+
+    img {
+        max-width: 150px;
+        height: auto;
+    }
+
     div {
-        width: 200px; 
-        height: 150px; 
+        width: 100%;
+        text-align: center;
     }
 }

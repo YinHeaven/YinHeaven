@@ -14,7 +14,8 @@
 | - 🔭 **Currently Working on**: [a secret project](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br> - 📚 **Studying**: Software architecture <br> - 🏹 **Goal**: Become a robust code programmer and transmit knowledge <br> - 📫 **Social**: [Discord](https://discordapp.com/) <br> - ✨ **Dream**: Work full-time with open-source | ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4h3IwamhuZ1lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif) |
 
 ---
-
+> [!Note]
+> Profile in progress
 ### Stats
 
 #### PC View (Horizontal)

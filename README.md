@@ -1,9 +1,9 @@
 # Yin Heaven :flower_playing_cards:
 
-## 「 Software Engineer 」
+## 「 <em>Software Engineer <\em> 」
 
 ### Sobre mí
-Hi! My name is Yeltsin, programmer with a strong interest in backend development leveraging Python. I have dedicated time to acquiring proficiency in Python and its application in data manipulation, including XML and JSON parsing and generation. My exploration extends to the Django framework, where I am currently learning to architect the foundational layers of web applications.
+<em>Hi! My name is Yeltsin, programmer with a strong interest in backend development leveraging Python. I have dedicated time to acquiring proficiency in Python and its application in data manipulation, including XML and JSON parsing and generation. My exploration extends to the Django framework, where I am currently learning to architect the foundational layers of web applications.<\em>
 
 ---
 

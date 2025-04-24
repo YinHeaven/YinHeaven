@@ -15,12 +15,6 @@
 
 ---
 ### Stats
-
-#### PC View (Horizontal)
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight&card_width=400) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact&card_width=400) |
-|---|---|
-
-#### Mobile View (Portrait)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight&card_width=400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact&card_width=400)

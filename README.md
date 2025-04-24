@@ -18,12 +18,10 @@ Hi! My name is Yeltsin, programmer with a strong interest in backend development
 ### Estadísticas y GIF
 
 #### Vista en PC (Horizontal)
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact) ||
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight&card_width=400) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact&card_width=400) |
 |---|---|
 
 #### Vista en Móvil (Vertical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinHeaven&count_private=true&show_icons=true&theme=tokyonight&card_width=400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact)
-
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU5eWd4h3IwamhuZ1lMmQwMTB6NTFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YinHeaven&theme=tokyonight&layout=compact&card_width=400)
